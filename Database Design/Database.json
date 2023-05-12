@@ -1,0 +1,24 @@
+{
+  "user": {
+    "username": "String",
+    "password": "Hash(String)",
+    "email": "String",
+    "stravaId": "String"
+  },
+  "run": {
+    "userId": "objectId(user)",
+    "activity": "Object(activity.json)",
+    "stream" : "Object(stream.json)"
+  },
+  "weather": {
+    "cloudinessId": "objectId(cloudiness)",
+    "temperature": "Number",
+    "humidity": "Number",
+    "location": "String",
+    "date": "Date"
+  },
+  "cloudiness": {
+    "name": "String",
+    "icon": "Icon.png"
+  }
+}
