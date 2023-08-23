@@ -1,0 +1,4 @@
+-bolj tekoče interpoliranje
+-več tekov na enkrat
+-dodaj vreme in temperaturo
+-namesto tekača animiran gif

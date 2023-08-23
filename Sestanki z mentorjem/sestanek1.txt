@@ -1,0 +1,46 @@
+tehnologije:
+-jira
+-git
+-mqtt
+-open street view
+-docker
+
+sistemska administracija:
+-docker
+-strežnik
+-skripte za obdelavo slik, podatkov
+
+spletno programiranje:
+
+principi programskih jezikov:
+
+prevajanje programskih jezikov:
+-regex
+-svojo podatkovno strukturo
+
+
+ideja:
+digitalni dvojček rekreativnega tekača po mariboru:
+	-simulacija tekačev iz drugih držav
+	-real time (kasneje)
+	-spodbujanje ljudi na zdrav način življenja
+	-občutek težavnosti teka
+	-struktura (id osebe, zgodovina tekov, razstaviti pot na neke parametre, vreme, simulacijski model (generiraj 1 tek po progi) - takojšni rezultati,
+koraki:
+1. posnameš tek, shraniš v bazo, preveriš končne podatke z stravo (hitrost)
+2. izris na zemljevidu
+3. prikaz na mestu
+4. premik tekača na zemljevidu (vizualizacija srček, obraz)
+5. izgled glede na vreme, uro, temperaturo
+mqtt za semaforje
+	
+pomembno, da se čim prej vidi rezultat
+odsvetovano že narejen API
+blockchain: rezultati, poti, valuta (vsak mesec cilj neka nagrada) - nekaj kar ne sme biti spremenjeno
+
+praktikum:
+-jira
+-naredimo taske in podtaske
+-github in jira morata biti povezana
+-task za danes
+-ni narobe če je kaj narobe (lahko commitnemo napako, to odstranimo z naslednjim)

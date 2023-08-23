@@ -1,0 +1,25 @@
+-problem več istih poti
+-lastnosti tekača povprečna hitrost, povprečni srčni utrip
+-speedup, da uporabnik, ne rabi čakati
+-primer pri 30C temperaturi si izmislimo kako bi tek potekal
+-kako bi tek potekal pri 30C, 25C, 20C?
+-kako hitrost pada glede na razdaljo?
+-ob 12 se pričakuje tak tempo, ob 18 se pričakuje drugačen tempo -> bolj pameten tekač
+-izmisli si 10 tekačev, ki imajo različne sposobnosti
+
+-excel, ki bo grafe narisal, da vidimo spremembo med tekom
+-nato to avtomatiziramo
+	-analiza vremena in temperature
+	-analiza razdalje
+	-analiza srčnega utripa...
+
+-implementacija digitalnega dvojčka tekača
+-implementacija agentov
+
+-5 tekov na enkrat
+-ura se začne ob začetu teka in je simulirana
+-kamera sledi tekaču
+-seznam tekačev, ki jih simuliramo
+-dobiš pot in parametre in porgram vrne tcx datoteko, ki je primer teka
+
+-iz strave downloadaš datoteko, in jo naložiš na stran
